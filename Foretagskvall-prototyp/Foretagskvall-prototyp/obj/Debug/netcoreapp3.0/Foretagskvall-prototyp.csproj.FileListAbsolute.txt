@@ -1,0 +1,11 @@
+C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Foretagskvall-prototyp\bin\Debug\netcoreapp3.0\Foretagskvall-prototyp.exe
+C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Foretagskvall-prototyp\bin\Debug\netcoreapp3.0\Foretagskvall-prototyp.deps.json
+C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Foretagskvall-prototyp\bin\Debug\netcoreapp3.0\Foretagskvall-prototyp.runtimeconfig.json
+C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Foretagskvall-prototyp\bin\Debug\netcoreapp3.0\Foretagskvall-prototyp.runtimeconfig.dev.json
+C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Foretagskvall-prototyp\bin\Debug\netcoreapp3.0\Foretagskvall-prototyp.dll
+C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Foretagskvall-prototyp\bin\Debug\netcoreapp3.0\Foretagskvall-prototyp.pdb
+C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Foretagskvall-prototyp\obj\Debug\netcoreapp3.0\Foretagskvall-prototyp.csprojAssemblyReference.cache
+C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Foretagskvall-prototyp\obj\Debug\netcoreapp3.0\Foretagskvall-prototyp.AssemblyInfoInputs.cache
+C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Foretagskvall-prototyp\obj\Debug\netcoreapp3.0\Foretagskvall-prototyp.AssemblyInfo.cs
+C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Foretagskvall-prototyp\obj\Debug\netcoreapp3.0\Foretagskvall-prototyp.dll
+C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Foretagskvall-prototyp\obj\Debug\netcoreapp3.0\Foretagskvall-prototyp.pdb

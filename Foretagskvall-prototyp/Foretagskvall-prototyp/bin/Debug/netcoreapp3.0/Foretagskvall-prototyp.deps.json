@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Foretagskvall-prototyp/1.0.0": {
+        "runtime": {
+          "Foretagskvall-prototyp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Foretagskvall-prototyp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
