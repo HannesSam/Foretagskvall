@@ -9,3 +9,5 @@ C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Fo
 C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Foretagskvall-prototyp\obj\Debug\netcoreapp3.0\Foretagskvall-prototyp.AssemblyInfo.cs
 C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Foretagskvall-prototyp\obj\Debug\netcoreapp3.0\Foretagskvall-prototyp.dll
 C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Foretagskvall-prototyp\obj\Debug\netcoreapp3.0\Foretagskvall-prototyp.pdb
+C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Foretagskvall-prototyp\bin\Debug\netcoreapp3.0\HungarianAlgorithm.dll
+C:\Users\hanne\Documents\GitHub\Foretagskvall-prototyp\Foretagskvall-prototyp\Foretagskvall-prototyp\obj\Debug\netcoreapp3.0\Foretagskvall-prototyp.csproj.CopyComplete

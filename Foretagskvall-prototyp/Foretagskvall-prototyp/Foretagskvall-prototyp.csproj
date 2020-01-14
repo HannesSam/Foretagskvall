@@ -6,4 +6,8 @@
     <RootNamespace>Foretagskvall_prototyp</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="HungarianAlgorithm" Version="2.2.4" />
+  </ItemGroup>
+
 </Project>
